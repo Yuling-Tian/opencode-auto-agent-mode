@@ -8,7 +8,7 @@ Restart OpenCode after completion.
 
 ## Recommended: Enhance with Superpowers
 
-To further improve agent capabilities, consider using [Superpowers](https://github.com/anthropics/superpowers). Superpowers provides additional skills that can enhance your agent's functionality:
+To further improve agent capabilities, consider using [Superpowers](https://github.com/obra/superpowers). Superpowers provides additional skills that can enhance your agent's functionality:
 
 - **Brainstorming**: Structured ideation before implementation
 - **Test-Driven Development**: Write tests before code
